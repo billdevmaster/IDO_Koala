@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;600;700;800;900&display=swap');
+
+@font-face {
+    font-family: "Akira";   /*Can be any text*/
+    src: local("Akira Expanded Demo"),
+    url("./assets/fonts/Akira-Expanded-Demo.otf") format("truetype");
+}
+
+@font-face {
+    font-family: 'Grifter';
+    src: local("Grifter"),
+    url("./assets/fonts/GRIFTER™Bold.otf") format("truetype");
+}

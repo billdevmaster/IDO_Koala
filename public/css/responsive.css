@@ -1,0 +1,86 @@
+@media screen and (max-width: 767px) {
+    body {
+        background-size: 100% 100%;
+    }
+    .frm-single {
+        width: 100%;
+    }
+    .btn-main {
+        right: 10px;
+    }
+    .btn-main .btn {
+        padding: 8px 18px;
+        font-size: 14px;
+    }
+    .frm-icon {
+        left: 10px;
+    }
+    .frm-single input {
+        padding: 16px 95px 16px 58px;
+    }
+    .inputform-section .space-craft img {
+        width: 150px;
+    }
+    .inputform-section .space-craft {
+        bottom: -50px;
+        left: 15px;
+    }
+    .inputform-section .rocket {
+        top: -108px;
+        right: 10px;
+    }
+    .inputform-section .rocket img {
+        width: 100px;
+    }
+    .top-heading h2 {
+        font-size: 28px;
+        line-height: 25px;
+    }
+    .section-main {
+        padding: 60px 0;
+    }
+    .imgcrdbx-main ul li {
+        width: 50%;
+    }
+    .countdown-main li+li:before {
+        display: none;
+    }
+    .countdown-main li+li {
+        margin-top: 15px;
+    }
+    .countdown-main li {
+        font-size: 16px;
+    }
+    .countdown-main ul {
+        max-width: 300px;
+        margin: 0 auto;
+    }
+    .countdown-main li .dt-mn {
+        font-size: 42px;
+        width: 100px;
+    }
+    .imgcrdbx-main ul li .card-box img {
+        width: 100%;
+    }
+    .footer-inner {
+        align-items: center;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .Social_list {
+        margin-bottom: 12px;
+    }
+    .footer-main .social_list li a {
+        width: 36px;
+        height: 36px;
+    }
+}
+
+@media screen and (max-width: 450px) {
+    .imgcrdbx-main ul {
+        margin: 0 -5px;
+    }
+    .imgcrdbx-main ul li {
+        padding: 5px;
+    }
+}
